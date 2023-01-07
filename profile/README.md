@@ -1,4 +1,4 @@
-## Hi there 👋
+## The Coffee + Software Show, with Josh Long  
 
 <!--
 
@@ -10,3 +10,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Hi there 👋! My name [is Josh Long (@starbuxman)](https://twitter.com/starbuxman), and this is the Coffee + Software show. I've got a lot of things I want to explore and very little time in which to do it. So, grab a cup of coffee and join me and we'll explore software together.
